@@ -22,6 +22,7 @@ const CRYPTO_CURRENCY_PAIRS = [
   'BTC_SDC', // Shadowcash
   'BTC_GAME', // GameCredit
   'BTC_ARDR', // Ardor
+  'BTC_PASC', // Pascal
 ];
 
 const BASE_URL = 'https://poloniex.com/public';
