@@ -23,6 +23,8 @@ const CRYPTO_CURRENCY_PAIRS = [
   'BTC_GAME', // GameCredit
   'BTC_ARDR', // Ardor
   'BTC_PASC', // Pascal
+  'BTC_BCY', // Bit Crystals
+  'BTC_NXC', // Nexium
 ];
 
 const BASE_URL = 'https://poloniex.com/public';

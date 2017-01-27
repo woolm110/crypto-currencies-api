@@ -155,6 +155,18 @@ const cryptoCurrencyMap = {
     pair: 'BTC_PASC',
     intermediateCurrency: 'BTC'
   },
+  BCY: {
+    exchange: 'poloniex',
+    hasNativeCurrency: false,
+    pair: 'BTC_BCY',
+    intermediateCurrency: 'BTC'
+  },
+  NXC: {
+    exchange: 'poloniex',
+    hasNativeCurrency: false,
+    pair: 'BTC_NXC',
+    intermediateCurrency: 'BTC'
+  },
 };
 
 export { cryptoCurrencyMap };
