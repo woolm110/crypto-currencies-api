@@ -149,6 +149,12 @@ const cryptoCurrencyMap = {
     pair: 'BTC_ARDR',
     intermediateCurrency: 'BTC'
   },
+  PASC: {
+    exchange: 'poloniex',
+    hasNativeCurrency: false,
+    pair: 'BTC_PASC',
+    intermediateCurrency: 'BTC'
+  },
 };
 
 export { cryptoCurrencyMap };
