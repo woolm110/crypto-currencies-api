@@ -5,23 +5,11 @@ import ApiClient         from './ApiClient';
 import { convertPeriod } from '../utils/period';
 
 const CRYPTO_CURRENCY_PAIRS = [
-  'USDT_REP', // Augur
   'USDT_XMR', // Monero
-  'USDT_ZEC', // ZCash
   'USDT_ETC', // Ethereum classic
-  'USDT_XRP', // Ripple
+  'USDT_ZEC', // ZCash
   'USDT_DASH', // Dash
-  'USDT_STR', // Stellar
-  'BTC_LSK',  // Lisk
   'BTC_MAID', // MaidSafe
-  'BTC_FCT', // Factom
-  'BTC_XEM', // NEM
-  'ETH_STEEM', // Steem
-  'BTC_DOGE', // Dogecoin
-  'BTC_BTS', // BitShares
-  'BTC_SDC', // Shadowcash
-  'BTC_GAME', // GameCredit
-  'BTC_ARDR', // Ardor
   'BTC_PASC', // Pascal
   'BTC_BCY', // Bit Crystals
   'BTC_NXC', // Nexium
