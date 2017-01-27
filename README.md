@@ -66,7 +66,7 @@ yarn dev
 ```
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/woolm110/lionshare-api)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/woolm110/crypto-currencies-api#develop)
 
 ## License
 
