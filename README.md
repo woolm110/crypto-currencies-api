@@ -9,7 +9,7 @@ Build with Node, Koa 2, `uws` and Redis.
 
 ## API Endpoints
 
-### Prices 
+### Prices
 
 `GET https://api.lionshare.capital/api/prices`
 
@@ -44,7 +44,7 @@ Returns market capitalization data
 ```
 {
   "data": {
-    "BTC": 14718750986, 
+    "BTC": 14718750986,
     "ETH": 943628626,
     "LTC": 188560718,
     ...
@@ -66,7 +66,7 @@ yarn dev
 ```
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lionsharecapital/lionshare-api)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/woolm110/lionshare-api)
 
 ## License
 
